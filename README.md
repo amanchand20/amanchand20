@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Aman
 
-<!--
-**amanchand20/amanchand20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+🚀 Interested in Web Development / Data / AI  
+🔥 I love building real-world projects and learning new tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: C, C++, Java, Python
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, Linux (Ubuntu)
+
+---
+
+## 📌 Projects
+🌐 English to Japanese Translator  
+  A simple translation tool that converts English text into Japanese using translation logic/API, helping users understand and convert sentences easily.
+
+
+---
+
+## 📫 Connect with me
+- Instagram: amanchand_20
+- Email: amanchand00000@gmail.com
+
+---
+
+⭐ Always learning, always building.
